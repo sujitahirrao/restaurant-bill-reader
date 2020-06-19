@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Machine%20Learning/Finicity/data/texts/Img4.png.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>THQ
+J Biman,
+atieee fan
+BARAT
+AASWAD
+(Sarjoshi Hospitality Pvt Ltd)
+T2 Airport Andheri (E),Mumbai 4000099
+sessn-==---= TAX INVOICE ---=-=----=--
+Date: <Node id="151"/>01/07/17<Node id="159"/> Bill No. : 34
+PBoy: COUNTER
+Particulars Qty Rate Amount
+COFFEE 1 90 90
+â&#x20ac;&#x2dc;Sub Total : 90.00
+â&#x20ac;&#x2dc;$ GST @9% : 8.10
+Cost 6%: Â© 8.10
+nn Total : <Node id="300"/>106<Node id="303"/>
+ance cenernaracenanenosssossanananacasn
+GST NO. 27AAUCSB423L1Z1 (04:31 AM)
+SAC â&#x20ac;&#x2dc;NO. 004410
+a<Node id="398"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="date" StartNode="151" EndNode="159">
+</Annotation>
+<Annotation Id="2" Type="amount" StartNode="300" EndNode="303">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="398">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

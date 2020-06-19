@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Machine%20Learning/Finicity/data/texts/Img7.png.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>~ â&#x20ac;&#x153;&amp;S&amp; PARROND {
+RE PNB
+j 28013 MADRID i
+TELEFONO: 915227987
+= NPG. WLTLF. 658905 Â£ .
+Sree rre censor
+FAC. SIN: TB COMP, 01:25 Wese:019 = FECHA:<Node id="147"/>22/06/2018<Node id="157"/> {
+UNIO. â&#x20ac;&#x201d;DESCRIPCION PRECIO IMPORTE = *
+8 PANY APERITIUOs 150 12,000
+~ 1 2K6 ANGULAS DEL HALON 3000.00 3000.00 =,
+| 48 PERCEBES 600,00 600,00
+"1 4KG CTBALAS ANTLLA ROA 6000,00 6000,00
+6 LUBTWA ALA SAL 30,00 240,00
+| 5K@ SOLOMTLLO BUEY AL ESE 600,00 600,00
+4 FLOR DE PINGUS COLECCION  2000,00 8000.00
+1 SOUFFLE ESPECIAL 120,00 120,00â&#x20ac;&#xfffd;
+16 CAFE 3,00 48,00
+5 ROMEO Â¥ JULIETA 24,00 120,00
+2 CHANPAANE LOUIS ROEDERER â&#x20ac;&#x201d; 15000,00 30000,00
+| BOTELLA JOHWNTE WALKER ET 400,00 400,00
+2 â&#x20ac;&#x201d;â&#x20ac;&#x201d;_WARLBORO 8,00 15,00}
+2 â&#x20ac;&#x2dc;WINSTON 8,00 16,00
+8 GIN TONIC HENDRICKâ&#x20ac;&#x2122;S 15,00 120,00 =}
+BASE: 44810,90 1A: 10,00 T. TVA: 4481.09 |
+TOTAL EUROS <Node id="788"/>49292.0<Node id="795"/> |<Node id="797"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="date" StartNode="147" EndNode="157">
+</Annotation>
+<Annotation Id="2" Type="amount" StartNode="788" EndNode="795">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="797">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

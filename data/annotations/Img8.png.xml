@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Machine%20Learning/Finicity/data/texts/Img8.png.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>BROS FAMILY RESTAURENT
+'NO 109 MAKKRAM GARDEN
+REDHILLS ROAD ,KOLATHUR
+CHENNAI-600 099.
+ph: 9551875242 9600151940
+GSTIN : 338RMPMS2050223
+Sales Type:Cash Time 0851 9M
+Bil Type cash Table Not
+SNO ITEM NAHE QTY RATE TOTAL
+1 Lenin Chicken 3 160.00 480.00
+2 Ginger Chicken 2 160.00 320.00
+3 Dragon Chicken 1 235.00 235.00
+4 Drum Chicken 4 150.00 600.00
+5 Crispy Chicken 1 200.00 200.00
+Total Ttens:5 Sub Total: 1835.00
+Total Qty :11 Gest 2.5%: 0.00
+Received : 2000.005gst @ 2.58 : 0.00
+Returned 3165
+GRAND TOTAL: <Node id="508"/>1835.00<Node id="515"/>
+Thankyou a gn<Node id="529"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="amount" StartNode="508" EndNode="515">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="529">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Machine%20Learning/Finicity/data/texts/Img5.png.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>EYE OF THAI-GER
+3077 Stone Lane
+Philadelphia, PA
+gzane 1:54 aM
+Tae
+mex gost ALIA
+or nese na
+â&#x20ac;&#x153;T3t pare Ke bow 68,99
+0 RSs es
+i Ma Geer at
+$8 HSâ&#x20ac;&#x2dc;mnes ese
+2 BATE wane ol
+AMT $43,97
+sus-r0TaL <Node id="192"/>43,97<Node id="197"/>
+Ta ese
+ERLANCE eanyat
+MOON<Node id="224"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="amount" StartNode="192" EndNode="197">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="224">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Machine%20Learning/Finicity/data/texts/Img3.png.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Bail
+Des<Node id="8"/>01/07/17<Node id="16"/> 01:46PM M/C=01 No:459
+45/0 The2 W:i8
+Description Qty Rate Amount
+FRESH COFFEE é 40.0 80.08
+Food Amt Rs. 80.00
+CGST @ 6.00 cn 80.00 4,30
+ges? @ 4.00 on 80.80 4.80
+Net Food Amt Rs. 89,60
+cash <Node id="208"/>90.00<Node id="213"/>
+
+<Node id="215"/>' GSTIN 27ADWPS9536I1ZF
+t ATHANK YOU,<Node id="252"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="2" Type="date" StartNode="8" EndNode="16">
+</Annotation>
+<Annotation Id="3" Type="amount" StartNode="208" EndNode="213">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="213">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="215" EndNode="252">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

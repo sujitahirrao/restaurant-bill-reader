@@ -1,0 +1,13 @@
+Bail
+Des01/07/17 01:46PM M/C=01 No:459
+45/0 The2 W:i8
+Description Qty Rate Amount
+FRESH COFFEE é 40.0 80.08
+Food Amt Rs. 80.00
+CGST @ 6.00 cn 80.00 4,30
+ges? @ 4.00 on 80.80 4.80
+Net Food Amt Rs. 89,60
+cash 90.00
+
+' GSTIN 27ADWPS9536I1ZF
+t ATHANK YOU,

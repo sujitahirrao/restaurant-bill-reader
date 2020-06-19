@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Machine%20Learning/Finicity/data/texts/Img9.png.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>â&#x20ac;&#x2dc;Waterview Restaurant
+"015 Marina Ove
+â&#x20ac;&#x2dc;San Diego, CA 1965,
+eoo-sa2-1929,<Node id="76"/>
+
+<Node id="78"/>corer 63 cxrzo2000
+Shed 568 1210 9M
+1 Get Octapu S179
+4 Saimon Taner S599
+4 Oysters Â« Green NZ S270
+2 Grey Goose ume $198
+Visa 444s Sale
+subtotal <Node id="225"/>7815<Node id="229"/>
+Tar 3535
+Toa sae
+Transacton Type â&#x20ac;&#x2dc;Sale
+butherzaton Aoproved
+Approval Code rears
+Payment erates
+ard eager Swipadicn<Node id="346"/>
+
+<Node id="348"/>+18<Node id="351"/>
+
+<Node id="353"/>= Tota
+x<Node id="361"/>
+
+<Node id="363"/>Ccistmer Copy
+â&#x20ac;&#x2dc;Thanks lor visting Waterview Restaurant<Node id="419"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="5" Type="amount" StartNode="225" EndNode="229">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="76">
+</Annotation>
+<Annotation Id="1" Type="paragraph" StartNode="78" EndNode="346">
+</Annotation>
+<Annotation Id="2" Type="paragraph" StartNode="348" EndNode="351">
+</Annotation>
+<Annotation Id="3" Type="paragraph" StartNode="353" EndNode="361">
+</Annotation>
+<Annotation Id="4" Type="paragraph" StartNode="363" EndNode="419">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

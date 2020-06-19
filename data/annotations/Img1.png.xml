@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Machine%20Learning/Finicity/data/texts/Img1.png.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>SRI KRISHNA
+Veg Restaurant
+New Muncipa] Bldg
+Joban-Putra Compound
+Nana Chowk Mumbai 400007
+Ph:23867544, 23827326
+TTTremm="= TAX INVOICE -------------
+Date: <Node id="156"/>01/07/17<Node id="164"/> Bill No. : 31/3
+PBoy: COUNTER
+Particulars Qty Rate Amount
+MEDU WADA 1 Ss
+Sub Total : 65.00
+Dis: @10% ; 6.00
+Net Total ; 59.00
+CGST @9% ; Orel
+SGST 49% ; 5.31
+1 Grand Total ; <Node id="339"/>7O<Node id="341"/>
+GST NO 27AADFH5037M126 (06:56 AM)
+E.80.E, Thank You Visit Again
+|<Node id="407"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="date" StartNode="156" EndNode="164">
+</Annotation>
+<Annotation Id="2" Type="amount" StartNode="339" EndNode="341">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="407">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>

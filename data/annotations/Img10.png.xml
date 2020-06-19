@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<GateDocument version="3">
+<!-- The document's features-->
+
+<GateDocumentFeatures>
+<Feature>
+  <Name className="java.lang.String">gate.SourceURL</Name>
+  <Value className="java.lang.String">file:/D:/Machine%20Learning/Finicity/data/texts/Img10.png.txt</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">MimeType</Name>
+  <Value className="java.lang.String">text/plain</Value>
+</Feature>
+<Feature>
+  <Name className="java.lang.String">docNewLineType</Name>
+  <Value className="java.lang.String">LF</Value>
+</Feature>
+</GateDocumentFeatures>
+<!-- The document content area with serialized nodes -->
+
+<TextWithNodes><Node id="0"/>Ma &amp; Paâ&#x20ac;&#x2122;s Bake Shop.
+Best Donuts &amp; Cakes in Town!
+â&#x20ac;&#x2dc;Server sKEN DOB: <Node id="72"/>10/9/2018<Node id="81"/>
+06344 PM Torgaeie
+18/1 1710156
+SALE
+VISA 1048614
+Card XXXXXXXKXXXX2227
+Card Presents JOEY SMITH
+Card Entry Method? S
+Approval: 535665
+1 Dozen Donuts $10.99
+1 Box 0 Joe $6.99
+Amounts $<Node id="265"/>17.98<Node id="270"/>
+Tax? $1.35
++ Tips
+= Totals
+Tipping Suggest ion
+Tip 15% Tip 18% Tip 20%
+$2,90 $8.48, $3087
+I agree to pay the above
+total amount according to the
+card issuer agreement
+Ko
+JOEY SMITH
+CUSTOMER COPY<Node id="465"/></TextWithNodes>
+<!-- The default annotation set -->
+
+<AnnotationSet>
+<Annotation Id="1" Type="date" StartNode="72" EndNode="81">
+</Annotation>
+<Annotation Id="2" Type="amount" StartNode="265" EndNode="270">
+</Annotation>
+</AnnotationSet>
+
+<!-- Named annotation set -->
+
+<AnnotationSet Name="Original markups">
+<Annotation Id="0" Type="paragraph" StartNode="0" EndNode="465">
+</Annotation>
+</AnnotationSet>
+
+</GateDocument>
